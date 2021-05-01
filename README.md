@@ -12,7 +12,7 @@
 
 <p align="center"></p>
 
-## <a href="https://devshimitsu-weather-app.herokuapp.com/">Live Demo</a> 👈
+## <a href="https://devshimitsu.github.io/Hex-Color-Generator/">Live Demo</a> 👈
 
 ## Installation 
 After download or clone open <a href="https://github.com/Devshimitsu/Hex-Color-Generator/blob/main/index.html">index.html</a>
