@@ -12,7 +12,7 @@
 
 <p align="center"></p>
 
-## <a href="https://hex.devshimitsu.ml/">Live Demo</a> 👈
+## <a href="https://hex.devshimitsu.tk/">Live Demo</a> 👈
 
 ## Installation 
 After download or clone open <a href="https://github.com/Devshimitsu/Hex-Color-Generator/blob/main/index.html">index.html</a>
